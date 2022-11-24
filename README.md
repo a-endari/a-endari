@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=000000&multiline=true&width=750&height=150&lines=Hi%2C+I'm+Abbas+%F0%9F%91%8B%F0%9F%8F%BC;A+Python,+Flutter,+and+WebDev+Enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=36&pause=1000&color=000000&multiline=true&width=950&height=150&lines=Hi%2C+I'm+Abbas+%F0%9F%91%8B%F0%9F%8F%BC;A+Python,+Flutter,+and+WebDev+Enthusiast.)](https://git.io/typing-svg)
