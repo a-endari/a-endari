@@ -1,6 +1,6 @@
 # ABOUT ME:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=A837F7&width=850&lines=Hi+%F0%9F%91%8B+I'm+Abbas+%F0%9F%A4%B5%F0%9F%8F%BB;A+Biomedical+Engineer%2C+Interested+in+programming+%F0%9F%92%BB;Specially+in+Python+%F0%9F%90%8D+and+Flask+%F0%9F%8C%B6%EF%B8%8F;Also%2C+I+love+%22Automation%22+!+%F0%9F%A4%96;If+anything+can+be+Automated!++It+should+be!+%F0%9F%A4%93;and+consider+me+dead+%F0%9F%92%80+if+I'm+not+learning+something+new.+%F0%9F%A4%93)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=465FBB&width=800&lines=Hi+%F0%9F%91%8B+I'm+Abbas;A+Biomedical+Engineer%2C+Interested+in+Programming+%F0%9F%92%BB;+especially+in++Python%F0%9F%90%8D+%2C++Java+and+sometimes+Flutter.)](https://git.io/typing-svg)
 ![profile views](https://komarev.com/ghpvc/?username=a-endari&style=for-the-badge&color=blueviolet)
 ## Github Stats
 <div style="display: flex;" align="center">
